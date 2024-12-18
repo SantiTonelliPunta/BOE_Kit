@@ -1,0 +1,27 @@
+{
+    "departamentos_incluidos": [
+        "Ministerio de Asuntos Económicos y Transformación Digital",
+        "Ministerio de Industria, Comercio y Turismo",
+        "Ministerio de Ciencia e Innovación",
+        "Ministerio para la Transición Digital"
+    ],
+    "palabras_clave_incluidas": [
+        "kit digital",
+        "digitalización",
+        "pyme",
+        "transformación digital",
+        "ayuda",
+        "subvención",
+        "inteligencia artificial",
+        "innovación tecnológica",
+        "tecnología",
+        "digital",
+        "innovación"
+    ],
+    "rangos_incluidos": [
+        "Real Decreto-ley",
+        "Real Decreto",
+        "Orden Ministerial",
+        "Resolución"
+    ]
+} 

@@ -1,0 +1,1588 @@
+2024-12-17 19:34:36:INFO:Intentando obtener contenido desde: https://www.boe.es/rss/boe.php?s=3
+2024-12-17 19:34:37:INFO:Respuesta HTTP: 200
+2024-12-17 19:34:37:INFO:Se obtuvieron 50 entradas del feed
+2024-12-17 19:34:37:INFO:Iniciando actualización de datos BOE
+2024-12-17 19:34:37:INFO:
+            Resumen de actualización:
+            - Nuevas entradas añadidas: 0
+            - Entradas actualizadas: 0
+            - Total de entradas en sistema: 51
+            
+[2024-12-17 19:46:13] INFO - Intentando obtener contenido desde: https://www.boe.es/rss/boe.php?s=3
+           {Process ID: 40163 - Thread: MainThread}
+[2024-12-17 19:46:13] INFO - Respuesta HTTP: 200
+           {Process ID: 40163 - Thread: MainThread}
+[2024-12-17 19:46:13] INFO - Se obtuvieron 50 entradas del feed
+           {Process ID: 40163 - Thread: MainThread}
+[2024-12-17 19:46:13] INFO - ▶️ INICIANDO: Actualización de datos BOE
+           {Process ID: 40163 - Thread: MainThread}
+[2024-12-17 19:46:13] INFO - 📊 Procesando 50 entradas potenciales
+           {Process ID: 40163 - Thread: MainThread}
+[2024-12-17 19:46:13] ERROR - ❌ Error en actualización: name 'entrada_existente' is not defined
+           {Process ID: 40163 - Thread: MainThread}
+[2024-12-17 19:47:30] INFO - Intentando obtener contenido desde: https://www.boe.es/rss/boe.php?s=3
+           {Process ID: 40266 - Thread: MainThread}
+[2024-12-17 19:47:30] INFO - Respuesta HTTP: 200
+           {Process ID: 40266 - Thread: MainThread}
+[2024-12-17 19:47:30] INFO - Se obtuvieron 50 entradas del feed
+           {Process ID: 40266 - Thread: MainThread}
+[2024-12-17 19:47:30] INFO - ▶️ INICIANDO: Actualización de datos BOE
+           {Process ID: 40266 - Thread: MainThread}
+[2024-12-17 19:47:30] INFO - 📊 Procesando 50 entradas potenciales
+           {Process ID: 40266 - Thread: MainThread}
+[2024-12-17 19:47:30] INFO - 
+            📋 Resumen de actualización:
+            ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+            ➕ Nuevas entradas: 0
+            🔄 Actualizaciones: 0
+            📚 Total en sistema: 51
+            🕒 Última actualización: 2024-12-17T19:47:30.872424
+            ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+            
+           {Process ID: 40266 - Thread: MainThread}
+[2024-12-17 19:47:30] INFO - ✅ SUCCESS: Actualización completada exitosamente
+           {Process ID: 40266 - Thread: MainThread}
+[2024-12-17 19:47:30] INFO - ⏹️ FINALIZADO: Actualización de datos BOE
+           {Process ID: 40266 - Thread: MainThread}
+[2024-12-17 19:52:55] INFO - Intentando obtener contenido desde: https://www.boe.es/rss/boe.php?s=3
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:55] INFO - Respuesta HTTP: 200
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:55] INFO - Se obtuvieron 50 entradas del feed
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:55] INFO - ▶️ INICIANDO: Actualización de datos BOE
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:55] INFO - 📊 Procesando 50 entradas potenciales
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:55] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/boe/dias/2024/12/17/
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:55] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:55] ERROR - ❌ Error al parsear XML: undefined entity: line 8, column 33
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:55] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26319
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:55] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:55] INFO - 📄 Detectados cambios en el contenido XML
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:55] INFO - 🔄 Actualización: Resolución de 9 de diciembre de 2024, de la Secretaría General Técnica, por la que se publica la Ade...
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:55] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26320
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:55] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:55] INFO - 📄 Detectados cambios en el contenido XML
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:55] INFO - 🔄 Actualización: Resolución de 22 de noviembre de 2024, de la Dirección General de Seguridad Jurídica y Fe Pública, p...
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:55] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26321
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:55] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:55] INFO - 📄 Detectados cambios en el contenido XML
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:55] INFO - 🔄 Actualización: Resolución de 22 de noviembre de 2024, de la Dirección General de Seguridad Jurídica y Fe Pública, p...
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:55] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26322
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:55] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:55] INFO - 📄 Detectados cambios en el contenido XML
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:55] INFO - 🔄 Actualización: Resolución de 22 de noviembre de 2024, de la Dirección General de Seguridad Jurídica y Fe Pública, p...
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:55] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26323
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:55] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:55] INFO - 📄 Detectados cambios en el contenido XML
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:55] INFO - 🔄 Actualización: Resolución de 2 de diciembre de 2024, de la Dirección General de Seguridad Jurídica y Fe Pública, po...
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:55] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26324
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:55] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:55] INFO - 📄 Detectados cambios en el contenido XML
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:55] INFO - 🔄 Actualización: Resolución de 2 de diciembre de 2024, de la Dirección General de Seguridad Jurídica y Fe Pública, po...
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:55] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26325
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:55] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:55] INFO - 📄 Detectados cambios en el contenido XML
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:55] INFO - 🔄 Actualización: Resolución 420/38530/2024, de 10 de diciembre, de la Secretaría General Técnica, por la que se publi...
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:55] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26326
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:55] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:55] INFO - 📄 Detectados cambios en el contenido XML
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:55] INFO - 🔄 Actualización: Resolución 420/38537/2024, de 12 de diciembre, de la Secretaría General Técnica, por la que se publi...
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:55] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26327
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:55] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:55] INFO - 📄 Detectados cambios en el contenido XML
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:55] INFO - 🔄 Actualización: Resolución de 12 de diciembre de 2024, de la Secretaría General Técnica, por la que se publica el Co...
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:55] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26328
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:55] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:55] INFO - 📄 Detectados cambios en el contenido XML
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:55] INFO - 🔄 Actualización: Resolución de 11 de diciembre de 2024, de la Secretaría General Técnica, por la que se publica el Co...
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:55] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26329
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:55] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:55] INFO - 📄 Detectados cambios en el contenido XML
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:55] INFO - 🔄 Actualización: Resolución de 11 de diciembre de 2024, de la Secretaría General Técnica, por la que se publica el Co...
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:55] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26330
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:55] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:55] INFO - 📄 Detectados cambios en el contenido XML
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:55] INFO - 🔄 Actualización: Resolución de 11 de diciembre de 2024, de la Secretaría General Técnica, por la que se publica el Co...
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:55] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26331
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:55] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:55] INFO - 📄 Detectados cambios en el contenido XML
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:55] INFO - 🔄 Actualización: Resolución de 11 de diciembre de 2024, de la Secretaría General Técnica, por la que se publica el Co...
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:55] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26332
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:55] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:55] INFO - 📄 Detectados cambios en el contenido XML
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:55] INFO - 🔄 Actualización: Resolución de 11 de diciembre de 2024, de la Secretaría General Técnica, por la que se publica el Co...
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:55] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26333
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - 📄 Detectados cambios en el contenido XML
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - 🔄 Actualización: Resolución de 11 de diciembre de 2024, de la Secretaría General Técnica, por la que se publica el Co...
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26334
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - 📄 Detectados cambios en el contenido XML
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - 🔄 Actualización: Orden APA/1424/2024, de 10 de diciembre, por la que se dispone la inclusión de diversas variedades d...
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26335
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - 📄 Detectados cambios en el contenido XML
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - 🔄 Actualización: Resolución de 11 de diciembre de 2024, de la Subsecretaría, por la que se publica la tercera Adenda ...
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26336
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - 📄 Detectados cambios en el contenido XML
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - 🔄 Actualización: Resolución de 25 de noviembre de 2024, de la Dirección General de Planificación y Coordinación Energ...
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26337
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - 📄 Detectados cambios en el contenido XML
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - 🔄 Actualización: Resolución de 9 de diciembre de 2024, de la Secretaría General Técnica, por la que se publica el Acu...
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26338
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - 📄 Detectados cambios en el contenido XML
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - 🔄 Actualización: Resolución de 9 de diciembre de 2024, de la Secretaría General Técnica, por la que se publica el Acu...
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26339
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - 📄 Detectados cambios en el contenido XML
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - 🔄 Actualización: Orden CLT/1425/2024, de 5 de diciembre, por la que se corrigen errores en la Orden CLT/1345/2024, de...
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26340
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - 📄 Detectados cambios en el contenido XML
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - 🔄 Actualización: Resolución de 6 de diciembre de 2024, de la Secretaría de Estado de Derechos Sociales, por la que se...
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26341
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - 📄 Detectados cambios en el contenido XML
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - 🔄 Actualización: Resolución de 19 de noviembre de 2024, de la Secretaría de Estado de Derechos Sociales, por la que s...
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26342
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - 📄 Detectados cambios en el contenido XML
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - 🔄 Actualización: Resolución de 11 de diciembre de 2024, del Centro de Investigaciones Energéticas, Medioambientales y...
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26343
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - 📄 Detectados cambios en el contenido XML
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - 🔄 Actualización: Resolución de 13 de diciembre de 2024, de la Secretaría de Estado de Ciencia, Innovación y Universid...
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26344
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - 📄 Detectados cambios en el contenido XML
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - 🔄 Actualización: Resolución de 11 de diciembre de 2024, de la Secretaría General Técnica, por la que se publica la Ad...
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26345
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - 📄 Detectados cambios en el contenido XML
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - 🔄 Actualización: Resolución de 5 de diciembre de 2024, del Banco de España, sobre delegación de competencias....
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26346
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - 📄 Detectados cambios en el contenido XML
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - 🔄 Actualización: Resolución de 16 de diciembre de 2024, del Banco de España, por la que se publican los cambios del e...
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26347
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - 📄 Detectados cambios en el contenido XML
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - 🔄 Actualización: Resolución de 10 de diciembre de 2024, del Consejo de Seguridad Nuclear, por la que se publica el Co...
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26348
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - 📄 Detectados cambios en el contenido XML
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - 🔄 Actualización: Resolución de 3 de diciembre de 2024, de la Universidad Pompeu Fabra, por la que se publica el plan ...
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26349
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - 📄 Detectados cambios en el contenido XML
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - 🔄 Actualización: Resolución de 3 de diciembre de 2024, de la Universidad Pompeu Fabra, por la que se publican los pla...
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26350
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - 📄 Detectados cambios en el contenido XML
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - 🔄 Actualización: Resolución de 4 de diciembre de 2024, de la Universidad de Alcalá, por la que se publica el plan de ...
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26351
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - 📄 Detectados cambios en el contenido XML
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - 🔄 Actualización: Resolución de 4 de diciembre de 2024, de la Universidad de Santiago de Compostela, por la que se pub...
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26352
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - 📄 Detectados cambios en el contenido XML
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - 🔄 Actualización: Resolución de 4 de diciembre de 2024, de la Universidad de Santiago de Compostela, por la que se pub...
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26353
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - 📄 Detectados cambios en el contenido XML
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - 🔄 Actualización: Resolución de 4 de diciembre de 2024, de la Universidad de Santiago de Compostela, por la que se pub...
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26354
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - 📄 Detectados cambios en el contenido XML
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - 🔄 Actualización: Resolución de 4 de diciembre de 2024, de la Universidad de Santiago de Compostela, por la que se pub...
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:56] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26355
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:57] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:57] INFO - 📄 Detectados cambios en el contenido XML
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:57] INFO - 🔄 Actualización: Resolución de 4 de diciembre de 2024, de la Universidad de Santiago de Compostela, por la que se pub...
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:57] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26356
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:57] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:57] INFO - 📄 Detectados cambios en el contenido XML
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:57] INFO - 🔄 Actualización: Resolución de 4 de diciembre de 2024, de la Universidad de Santiago de Compostela, por la que se pub...
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:57] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26357
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:58] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:58] INFO - 📄 Detectados cambios en el contenido XML
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:58] INFO - 🔄 Actualización: Resolución de 4 de diciembre de 2024, de la Universidad de Santiago de Compostela, por la que se pub...
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:58] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26358
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:58] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:58] INFO - 📄 Detectados cambios en el contenido XML
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:58] INFO - 🔄 Actualización: Resolución de 4 de diciembre de 2024, de la Universidad de Santiago de Compostela, por la que se pub...
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:58] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26359
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:58] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:58] INFO - 📄 Detectados cambios en el contenido XML
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:58] INFO - 🔄 Actualización: Resolución de 4 de diciembre de 2024, de la Universidad de Santiago de Compostela, por la que se pub...
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:58] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26360
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:58] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:58] INFO - 📄 Detectados cambios en el contenido XML
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:58] INFO - 🔄 Actualización: Resolución de 4 de diciembre de 2024, de la Universidad de Santiago de Compostela, por la que se pub...
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:58] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26361
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:58] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:58] INFO - 📄 Detectados cambios en el contenido XML
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:58] INFO - 🔄 Actualización: Resolución de 4 de diciembre de 2024, de la Universidad de Santiago de Compostela, por la que se pub...
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:58] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26362
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:58] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:58] INFO - 📄 Detectados cambios en el contenido XML
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:58] INFO - 🔄 Actualización: Resolución de 4 de diciembre de 2024, de la Universidad de Santiago de Compostela, por la que se pub...
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:58] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26363
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:58] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:58] INFO - 📄 Detectados cambios en el contenido XML
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:58] INFO - 🔄 Actualización: Resolución de 4 de diciembre de 2024, de la Universidad de Santiago de Compostela, por la que se pub...
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:58] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26364
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:58] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:58] INFO - 📄 Detectados cambios en el contenido XML
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:58] INFO - 🔄 Actualización: Resolución de 4 de diciembre de 2024, de la Universidad de Santiago de Compostela, por la que se pub...
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:58] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26365
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:58] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:58] INFO - 📄 Detectados cambios en el contenido XML
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:58] INFO - 🔄 Actualización: Resolución de 5 de diciembre de 2024, de la Universidad de Alcalá, por la que se publica el plan de ...
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:58] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26366
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:58] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:58] INFO - 📄 Detectados cambios en el contenido XML
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:58] INFO - 🔄 Actualización: Resolución de 9 de diciembre de 2024, de la Universidad de Alcalá, por la que se publica el plan de ...
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:58] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26367
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:58] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:58] INFO - 📄 Detectados cambios en el contenido XML
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:58] INFO - 🔄 Actualización: Resolución de 4 de diciembre de 2024, de la Universidad de Santiago de Compostela, por la que se cor...
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:58] INFO - 
+            📋 Resumen de actualización:
+            ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+            ➕ Nuevas entradas: 0
+            🔄 Actualizaciones: 49
+            📚 Total en sistema: 51
+            🕒 Última actualización: 2024-12-17T19:52:58.697169
+            ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+            
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:58] INFO - ✅ SUCCESS: Actualización completada exitosamente
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:52:58] INFO - ⏹️ FINALIZADO: Actualización de datos BOE
+           {Process ID: 40561 - Thread: MainThread}
+[2024-12-17 19:59:07] INFO - Intentando obtener contenido desde: https://www.boe.es/rss/boe.php?s=3
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:07] INFO - Respuesta HTTP: 200
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:07] INFO - Se obtuvieron 50 entradas del feed
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:07] INFO - ▶️ INICIANDO: Actualización de datos BOE
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:07] INFO - 📊 Procesando 50 entradas potenciales
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:07] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/boe/dias/2024/12/17/
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:07] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:07] ERROR - ❌ Error al parsear XML: undefined entity: line 8, column 33
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:07] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26319
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:07] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:07] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26320
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:07] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:07] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26321
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:07] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:07] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26322
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:07] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:07] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26323
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:07] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:07] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26324
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:08] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:08] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26325
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:08] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:08] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26326
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:08] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:08] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26327
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:08] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:08] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26328
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:08] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:08] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26329
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:08] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:08] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26330
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:08] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:08] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26331
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:08] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:08] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26332
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:08] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:08] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26333
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:08] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:08] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26334
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:08] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:08] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26335
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:08] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:08] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26336
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:08] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:08] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26337
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:08] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:08] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26338
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:08] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:08] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26339
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:08] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:08] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26340
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:08] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:08] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26341
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:08] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:08] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26342
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:08] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:08] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26343
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:08] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:08] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26344
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:08] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:08] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26345
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:09] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:09] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26346
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:09] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:09] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26347
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:09] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:09] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26348
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:09] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:09] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26349
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:09] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:09] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26350
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:09] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:09] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26351
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:09] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:09] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26352
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:09] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:09] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26353
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:09] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:09] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26354
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:09] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:09] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26355
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:09] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:09] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26356
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:09] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:09] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26357
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:09] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:09] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26358
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:09] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:09] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26359
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:09] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:09] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26360
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:09] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:09] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26361
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:09] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:09] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26362
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:09] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:09] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26363
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:09] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:09] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26364
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:10] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:10] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26365
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:10] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:10] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26366
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:10] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:10] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26367
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:10] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:10] INFO - 
+            📋 Resumen de actualización:
+            ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+            ➕ Nuevas entradas: 0
+            🔄 Actualizaciones: 0
+            📚 Total en sistema: 51
+            🕒 Última actualización: 2024-12-17T19:59:10.432113
+            ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+            
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:10] INFO - ✅ SUCCESS: Actualización completada exitosamente
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 19:59:10] INFO - ⏹️ FINALIZADO: Actualización de datos BOE
+           {Process ID: 41028 - Thread: MainThread}
+[2024-12-17 20:01:08] INFO - Intentando obtener contenido desde: https://www.boe.es/rss/boe.php?s=3
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:08] INFO - Respuesta HTTP: 200
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:08] INFO - Se obtuvieron 50 entradas del feed
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:08] INFO - ▶️ INICIANDO: Actualización de datos BOE
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:08] INFO - 📊 Procesando 50 entradas potenciales
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:08] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/boe/dias/2024/12/17/
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:08] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:08] ERROR - ❌ Error al parsear XML: undefined entity: line 8, column 33
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:08] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26319
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:09] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:09] INFO - 🔄 Actualización: Resolución de 9 de diciembre de 2024, de la Secretaría General Técnica, por la que se publica la Ade...
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:09] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26320
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:09] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:09] INFO - 🔄 Actualización: Resolución de 22 de noviembre de 2024, de la Dirección General de Seguridad Jurídica y Fe Pública, p...
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:09] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26321
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:09] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:09] INFO - 🔄 Actualización: Resolución de 22 de noviembre de 2024, de la Dirección General de Seguridad Jurídica y Fe Pública, p...
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:09] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26322
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:09] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:09] INFO - 🔄 Actualización: Resolución de 22 de noviembre de 2024, de la Dirección General de Seguridad Jurídica y Fe Pública, p...
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:09] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26323
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:09] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:09] INFO - 🔄 Actualización: Resolución de 2 de diciembre de 2024, de la Dirección General de Seguridad Jurídica y Fe Pública, po...
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:09] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26324
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:09] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:09] INFO - 🔄 Actualización: Resolución de 2 de diciembre de 2024, de la Dirección General de Seguridad Jurídica y Fe Pública, po...
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:09] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26325
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:09] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:09] INFO - 🔄 Actualización: Resolución 420/38530/2024, de 10 de diciembre, de la Secretaría General Técnica, por la que se publi...
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:09] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26326
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:09] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:09] INFO - 🔄 Actualización: Resolución 420/38537/2024, de 12 de diciembre, de la Secretaría General Técnica, por la que se publi...
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:09] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26327
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:09] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:09] INFO - 🔄 Actualización: Resolución de 12 de diciembre de 2024, de la Secretaría General Técnica, por la que se publica el Co...
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:09] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26328
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:09] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:09] INFO - 🔄 Actualización: Resolución de 11 de diciembre de 2024, de la Secretaría General Técnica, por la que se publica el Co...
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:09] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26329
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:09] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:09] INFO - 🔄 Actualización: Resolución de 11 de diciembre de 2024, de la Secretaría General Técnica, por la que se publica el Co...
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:09] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26330
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:10] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:10] INFO - 🔄 Actualización: Resolución de 11 de diciembre de 2024, de la Secretaría General Técnica, por la que se publica el Co...
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:10] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26331
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:10] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:10] INFO - 🔄 Actualización: Resolución de 11 de diciembre de 2024, de la Secretaría General Técnica, por la que se publica el Co...
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:10] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26332
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:10] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:10] INFO - 🔄 Actualización: Resolución de 11 de diciembre de 2024, de la Secretaría General Técnica, por la que se publica el Co...
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:10] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26333
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:10] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:10] INFO - 🔄 Actualización: Resolución de 11 de diciembre de 2024, de la Secretaría General Técnica, por la que se publica el Co...
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:10] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26334
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:10] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:10] INFO - 🔄 Actualización: Orden APA/1424/2024, de 10 de diciembre, por la que se dispone la inclusión de diversas variedades d...
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:10] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26335
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:10] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:10] INFO - 🔄 Actualización: Resolución de 11 de diciembre de 2024, de la Subsecretaría, por la que se publica la tercera Adenda ...
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:10] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26336
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:10] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:10] INFO - 🔄 Actualización: Resolución de 25 de noviembre de 2024, de la Dirección General de Planificación y Coordinación Energ...
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:10] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26337
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:10] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:10] INFO - 🔄 Actualización: Resolución de 9 de diciembre de 2024, de la Secretaría General Técnica, por la que se publica el Acu...
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:10] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26338
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:10] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:10] INFO - 🔄 Actualización: Resolución de 9 de diciembre de 2024, de la Secretaría General Técnica, por la que se publica el Acu...
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:10] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26339
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:10] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:10] INFO - 🔄 Actualización: Orden CLT/1425/2024, de 5 de diciembre, por la que se corrigen errores en la Orden CLT/1345/2024, de...
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:10] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26340
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:10] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:10] INFO - 🔄 Actualización: Resolución de 6 de diciembre de 2024, de la Secretaría de Estado de Derechos Sociales, por la que se...
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:10] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26341
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:10] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:10] INFO - 🔄 Actualización: Resolución de 19 de noviembre de 2024, de la Secretaría de Estado de Derechos Sociales, por la que s...
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:10] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26342
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:10] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:10] INFO - 🔄 Actualización: Resolución de 11 de diciembre de 2024, del Centro de Investigaciones Energéticas, Medioambientales y...
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:10] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26343
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:10] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:10] INFO - 🔄 Actualización: Resolución de 13 de diciembre de 2024, de la Secretaría de Estado de Ciencia, Innovación y Universid...
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:10] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26344
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:10] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:10] INFO - 🔄 Actualización: Resolución de 11 de diciembre de 2024, de la Secretaría General Técnica, por la que se publica la Ad...
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:10] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26345
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:11] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:11] INFO - 🔄 Actualización: Resolución de 5 de diciembre de 2024, del Banco de España, sobre delegación de competencias....
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:11] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26346
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:11] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:11] INFO - 🔄 Actualización: Resolución de 16 de diciembre de 2024, del Banco de España, por la que se publican los cambios del e...
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:11] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26347
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:11] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:11] INFO - 🔄 Actualización: Resolución de 10 de diciembre de 2024, del Consejo de Seguridad Nuclear, por la que se publica el Co...
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:11] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26348
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:11] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:11] INFO - 🔄 Actualización: Resolución de 3 de diciembre de 2024, de la Universidad Pompeu Fabra, por la que se publica el plan ...
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:11] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26349
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:11] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:11] INFO - 🔄 Actualización: Resolución de 3 de diciembre de 2024, de la Universidad Pompeu Fabra, por la que se publican los pla...
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:11] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26350
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:12] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:12] INFO - 🔄 Actualización: Resolución de 4 de diciembre de 2024, de la Universidad de Alcalá, por la que se publica el plan de ...
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:12] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26351
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:12] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:12] INFO - 🔄 Actualización: Resolución de 4 de diciembre de 2024, de la Universidad de Santiago de Compostela, por la que se pub...
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:12] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26352
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:12] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:12] INFO - 🔄 Actualización: Resolución de 4 de diciembre de 2024, de la Universidad de Santiago de Compostela, por la que se pub...
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:12] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26353
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:12] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:12] INFO - 🔄 Actualización: Resolución de 4 de diciembre de 2024, de la Universidad de Santiago de Compostela, por la que se pub...
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:12] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26354
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:12] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:12] INFO - 🔄 Actualización: Resolución de 4 de diciembre de 2024, de la Universidad de Santiago de Compostela, por la que se pub...
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:12] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26355
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:12] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:12] INFO - 🔄 Actualización: Resolución de 4 de diciembre de 2024, de la Universidad de Santiago de Compostela, por la que se pub...
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:12] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26356
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:12] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:12] INFO - 🔄 Actualización: Resolución de 4 de diciembre de 2024, de la Universidad de Santiago de Compostela, por la que se pub...
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:12] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26357
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:12] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:12] INFO - 🔄 Actualización: Resolución de 4 de diciembre de 2024, de la Universidad de Santiago de Compostela, por la que se pub...
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:12] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26358
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:12] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:12] INFO - 🔄 Actualización: Resolución de 4 de diciembre de 2024, de la Universidad de Santiago de Compostela, por la que se pub...
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:12] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26359
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:12] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:12] INFO - 🔄 Actualización: Resolución de 4 de diciembre de 2024, de la Universidad de Santiago de Compostela, por la que se pub...
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:12] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26360
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:12] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:12] INFO - 🔄 Actualización: Resolución de 4 de diciembre de 2024, de la Universidad de Santiago de Compostela, por la que se pub...
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:12] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26361
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:12] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:12] INFO - 🔄 Actualización: Resolución de 4 de diciembre de 2024, de la Universidad de Santiago de Compostela, por la que se pub...
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:12] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26362
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:12] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:12] INFO - 🔄 Actualización: Resolución de 4 de diciembre de 2024, de la Universidad de Santiago de Compostela, por la que se pub...
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:12] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26363
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:12] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:12] INFO - 🔄 Actualización: Resolución de 4 de diciembre de 2024, de la Universidad de Santiago de Compostela, por la que se pub...
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:12] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26364
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:13] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:13] INFO - 🔄 Actualización: Resolución de 4 de diciembre de 2024, de la Universidad de Santiago de Compostela, por la que se pub...
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:13] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26365
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:13] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:13] INFO - 🔄 Actualización: Resolución de 5 de diciembre de 2024, de la Universidad de Alcalá, por la que se publica el plan de ...
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:13] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26366
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:13] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:13] INFO - 🔄 Actualización: Resolución de 9 de diciembre de 2024, de la Universidad de Alcalá, por la que se publica el plan de ...
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:13] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26367
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:14] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:14] INFO - 🔄 Actualización: Resolución de 4 de diciembre de 2024, de la Universidad de Santiago de Compostela, por la que se cor...
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:14] INFO - 
+            📋 Resumen de actualización:
+            ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+            ➕ Nuevas entradas: 0
+            🔄 Actualizaciones: 49
+            📚 Total en sistema: 51
+            🕒 Última actualización: 2024-12-17T20:01:14.036338
+            ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+            
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:14] INFO - ✅ SUCCESS: Actualización completada exitosamente
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:14] INFO - ⏹️ FINALIZADO: Actualización de datos BOE
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:01:14] INFO - Se procesaron 50 nuevas entradas
+           {Process ID: 41218 - Thread: MainThread}
+[2024-12-17 20:16:38] INFO - Intentando obtener contenido desde: https://www.boe.es/rss/boe.php?s=3
+           {Process ID: 42221 - Thread: MainThread}
+[2024-12-17 20:16:38] INFO - Respuesta HTTP: 200
+           {Process ID: 42221 - Thread: MainThread}
+[2024-12-17 20:16:38] INFO - Se obtuvieron 50 entradas del feed
+           {Process ID: 42221 - Thread: MainThread}
+[2024-12-17 20:16:38] INFO - No se encontraron entradas relevantes según los criterios de inclusión
+           {Process ID: 42221 - Thread: MainThread}
+[2024-12-17 20:18:12] INFO - Intentando obtener contenido desde: https://www.boe.es/rss/boe.php?s=3
+           {Process ID: 42290 - Thread: MainThread}
+[2024-12-17 20:18:12] INFO - Respuesta HTTP: 200
+           {Process ID: 42290 - Thread: MainThread}
+[2024-12-17 20:18:12] INFO - Se obtuvieron 50 entradas del feed
+           {Process ID: 42290 - Thread: MainThread}
+[2024-12-17 20:18:12] INFO - No se encontraron entradas relevantes según los criterios de inclusión
+           {Process ID: 42290 - Thread: MainThread}
+[2024-12-17 20:21:37] INFO - Intentando obtener contenido desde: https://www.boe.es/rss/boe.php?s=3
+           {Process ID: 42504 - Thread: MainThread}
+[2024-12-17 20:21:38] INFO - Respuesta HTTP: 200
+           {Process ID: 42504 - Thread: MainThread}
+[2024-12-17 20:21:38] INFO - Se obtuvieron 50 entradas del feed
+           {Process ID: 42504 - Thread: MainThread}
+[2024-12-17 20:21:38] INFO - ▶️ INICIANDO: Actualización de datos BOE
+           {Process ID: 42504 - Thread: MainThread}
+[2024-12-17 20:21:38] ERROR - ❌ Error en actualización: Expecting value: line 1 column 1 (char 0)
+           {Process ID: 42504 - Thread: MainThread}
+[2024-12-17 20:21:38] INFO - Se procesaron 49 entradas relevantes
+           {Process ID: 42504 - Thread: MainThread}
+[2024-12-17 20:22:20] INFO - Intentando obtener contenido desde: https://www.boe.es/rss/boe.php?s=3
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:20] INFO - Respuesta HTTP: 200
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:20] INFO - Se obtuvieron 50 entradas del feed
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:20] INFO - ▶️ INICIANDO: Actualización de datos BOE
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:20] INFO - 📊 Procesando 49 entradas potenciales
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:20] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26319
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:20] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:20] INFO - 📥 Nueva entrada: Resolución de 9 de diciembre de 2024, de la Secretaría General Técnica, por la que se publica la Ade...
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:20] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26320
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:20] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:20] INFO - 📥 Nueva entrada: Resolución de 22 de noviembre de 2024, de la Dirección General de Seguridad Jurídica y Fe Pública, p...
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:20] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26321
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:20] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:20] INFO - 📥 Nueva entrada: Resolución de 22 de noviembre de 2024, de la Dirección General de Seguridad Jurídica y Fe Pública, p...
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:20] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26322
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:20] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:20] INFO - 📥 Nueva entrada: Resolución de 22 de noviembre de 2024, de la Dirección General de Seguridad Jurídica y Fe Pública, p...
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:20] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26323
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:20] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:20] INFO - 📥 Nueva entrada: Resolución de 2 de diciembre de 2024, de la Dirección General de Seguridad Jurídica y Fe Pública, po...
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:20] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26324
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:20] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:20] INFO - 📥 Nueva entrada: Resolución de 2 de diciembre de 2024, de la Dirección General de Seguridad Jurídica y Fe Pública, po...
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:20] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26325
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:20] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:20] INFO - 📥 Nueva entrada: Resolución 420/38530/2024, de 10 de diciembre, de la Secretaría General Técnica, por la que se publi...
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:20] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26326
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:21] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:21] INFO - 📥 Nueva entrada: Resolución 420/38537/2024, de 12 de diciembre, de la Secretaría General Técnica, por la que se publi...
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:21] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26327
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:21] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:21] INFO - 📥 Nueva entrada: Resolución de 12 de diciembre de 2024, de la Secretaría General Técnica, por la que se publica el Co...
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:21] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26328
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:21] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:21] INFO - 📥 Nueva entrada: Resolución de 11 de diciembre de 2024, de la Secretaría General Técnica, por la que se publica el Co...
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:21] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26329
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:21] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:21] INFO - 📥 Nueva entrada: Resolución de 11 de diciembre de 2024, de la Secretaría General Técnica, por la que se publica el Co...
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:21] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26330
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:21] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:21] INFO - 📥 Nueva entrada: Resolución de 11 de diciembre de 2024, de la Secretaría General Técnica, por la que se publica el Co...
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:21] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26331
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:21] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:21] INFO - 📥 Nueva entrada: Resolución de 11 de diciembre de 2024, de la Secretaría General Técnica, por la que se publica el Co...
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:21] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26332
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:21] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:21] INFO - 📥 Nueva entrada: Resolución de 11 de diciembre de 2024, de la Secretaría General Técnica, por la que se publica el Co...
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:21] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26333
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:21] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:21] INFO - 📥 Nueva entrada: Resolución de 11 de diciembre de 2024, de la Secretaría General Técnica, por la que se publica el Co...
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:21] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26334
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:21] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:21] INFO - 📥 Nueva entrada: Orden APA/1424/2024, de 10 de diciembre, por la que se dispone la inclusión de diversas variedades d...
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:21] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26335
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:21] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:21] INFO - 📥 Nueva entrada: Resolución de 11 de diciembre de 2024, de la Subsecretaría, por la que se publica la tercera Adenda ...
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:21] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26336
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:21] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:21] INFO - 📥 Nueva entrada: Resolución de 25 de noviembre de 2024, de la Dirección General de Planificación y Coordinación Energ...
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:21] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26337
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:21] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:21] INFO - 📥 Nueva entrada: Resolución de 9 de diciembre de 2024, de la Secretaría General Técnica, por la que se publica el Acu...
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:21] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26338
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:21] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:21] INFO - 📥 Nueva entrada: Resolución de 9 de diciembre de 2024, de la Secretaría General Técnica, por la que se publica el Acu...
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:21] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26339
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:21] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:21] INFO - 📥 Nueva entrada: Orden CLT/1425/2024, de 5 de diciembre, por la que se corrigen errores en la Orden CLT/1345/2024, de...
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:21] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26340
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:21] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:21] INFO - 📥 Nueva entrada: Resolución de 6 de diciembre de 2024, de la Secretaría de Estado de Derechos Sociales, por la que se...
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:21] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26341
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:21] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:21] INFO - 📥 Nueva entrada: Resolución de 19 de noviembre de 2024, de la Secretaría de Estado de Derechos Sociales, por la que s...
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:21] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26342
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:21] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:21] INFO - 📥 Nueva entrada: Resolución de 11 de diciembre de 2024, del Centro de Investigaciones Energéticas, Medioambientales y...
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:21] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26343
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:21] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:21] INFO - 📥 Nueva entrada: Resolución de 13 de diciembre de 2024, de la Secretaría de Estado de Ciencia, Innovación y Universid...
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:21] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26344
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:21] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:21] INFO - 📥 Nueva entrada: Resolución de 11 de diciembre de 2024, de la Secretaría General Técnica, por la que se publica la Ad...
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:21] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26345
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:21] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:21] INFO - 📥 Nueva entrada: Resolución de 5 de diciembre de 2024, del Banco de España, sobre delegación de competencias....
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:21] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26346
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:21] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:21] INFO - 📥 Nueva entrada: Resolución de 16 de diciembre de 2024, del Banco de España, por la que se publican los cambios del e...
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:21] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26347
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:22] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:22] INFO - 📥 Nueva entrada: Resolución de 10 de diciembre de 2024, del Consejo de Seguridad Nuclear, por la que se publica el Co...
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:22] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26348
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:22] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:22] INFO - 📥 Nueva entrada: Resolución de 3 de diciembre de 2024, de la Universidad Pompeu Fabra, por la que se publica el plan ...
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:22] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26349
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:22] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:22] INFO - 📥 Nueva entrada: Resolución de 3 de diciembre de 2024, de la Universidad Pompeu Fabra, por la que se publican los pla...
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:22] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26350
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:22] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:22] INFO - 📥 Nueva entrada: Resolución de 4 de diciembre de 2024, de la Universidad de Alcalá, por la que se publica el plan de ...
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:22] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26351
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:22] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:22] INFO - 📥 Nueva entrada: Resolución de 4 de diciembre de 2024, de la Universidad de Santiago de Compostela, por la que se pub...
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:22] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26352
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:22] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:22] INFO - 📥 Nueva entrada: Resolución de 4 de diciembre de 2024, de la Universidad de Santiago de Compostela, por la que se pub...
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:22] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26353
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:22] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:22] INFO - 📥 Nueva entrada: Resolución de 4 de diciembre de 2024, de la Universidad de Santiago de Compostela, por la que se pub...
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:22] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26354
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:22] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:22] INFO - 📥 Nueva entrada: Resolución de 4 de diciembre de 2024, de la Universidad de Santiago de Compostela, por la que se pub...
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:22] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26355
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:22] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:22] INFO - 📥 Nueva entrada: Resolución de 4 de diciembre de 2024, de la Universidad de Santiago de Compostela, por la que se pub...
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:22] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26356
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:22] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:22] INFO - 📥 Nueva entrada: Resolución de 4 de diciembre de 2024, de la Universidad de Santiago de Compostela, por la que se pub...
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:22] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26357
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:22] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:22] INFO - 📥 Nueva entrada: Resolución de 4 de diciembre de 2024, de la Universidad de Santiago de Compostela, por la que se pub...
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:22] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26358
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:22] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:22] INFO - 📥 Nueva entrada: Resolución de 4 de diciembre de 2024, de la Universidad de Santiago de Compostela, por la que se pub...
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:22] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26359
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:22] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:22] INFO - 📥 Nueva entrada: Resolución de 4 de diciembre de 2024, de la Universidad de Santiago de Compostela, por la que se pub...
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:22] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26360
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:22] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:22] INFO - 📥 Nueva entrada: Resolución de 4 de diciembre de 2024, de la Universidad de Santiago de Compostela, por la que se pub...
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:22] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26361
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:22] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:22] INFO - 📥 Nueva entrada: Resolución de 4 de diciembre de 2024, de la Universidad de Santiago de Compostela, por la que se pub...
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:22] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26362
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:22] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:22] INFO - 📥 Nueva entrada: Resolución de 4 de diciembre de 2024, de la Universidad de Santiago de Compostela, por la que se pub...
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:22] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26363
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:22] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:22] INFO - 📥 Nueva entrada: Resolución de 4 de diciembre de 2024, de la Universidad de Santiago de Compostela, por la que se pub...
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:22] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26364
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:22] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:22] INFO - 📥 Nueva entrada: Resolución de 4 de diciembre de 2024, de la Universidad de Santiago de Compostela, por la que se pub...
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:22] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26365
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:22] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:22] INFO - 📥 Nueva entrada: Resolución de 5 de diciembre de 2024, de la Universidad de Alcalá, por la que se publica el plan de ...
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:22] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26366
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:22] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:22] INFO - 📥 Nueva entrada: Resolución de 9 de diciembre de 2024, de la Universidad de Alcalá, por la que se publica el plan de ...
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:22] INFO - 🔍 Obteniendo contenido XML de: https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26367
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:22] INFO - ✅ SUCCESS: Contenido XML obtenido correctamente
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:22] INFO - 📥 Nueva entrada: Resolución de 4 de diciembre de 2024, de la Universidad de Santiago de Compostela, por la que se cor...
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:22] ERROR - ❌ Error en actualización: 'estadisticas'
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:22:22] INFO - Se procesaron 49 entradas relevantes
+           {Process ID: 42568 - Thread: MainThread}
+[2024-12-17 20:23:28] INFO - Intentando obtener contenido desde: https://www.boe.es/rss/boe.php?s=3
+           {Process ID: 42655 - Thread: MainThread}
+[2024-12-17 20:23:28] INFO - Respuesta HTTP: 200
+           {Process ID: 42655 - Thread: MainThread}
+[2024-12-17 20:23:28] INFO - Se obtuvieron 50 entradas del feed
+           {Process ID: 42655 - Thread: MainThread}
+[2024-12-17 20:23:28] INFO - Se procesaron y guardaron 49 entradas relevantes
+           {Process ID: 42655 - Thread: MainThread}
+[2024-12-17 20:25:31] INFO - Intentando obtener contenido desde: https://www.boe.es/rss/boe.php?s=3
+           {Process ID: 42797 - Thread: MainThread}
+[2024-12-17 20:25:32] INFO - Respuesta HTTP: 200
+           {Process ID: 42797 - Thread: MainThread}
+[2024-12-17 20:25:32] INFO - Se obtuvieron 50 entradas del feed
+           {Process ID: 42797 - Thread: MainThread}
+[2024-12-17 20:25:32] INFO - Se guardaron correctamente 49 entradas en data/datos_boe.json
+           {Process ID: 42797 - Thread: MainThread}
+[2024-12-17 20:25:32] INFO - Verificación exitosa: todas las entradas se guardaron correctamente
+           {Process ID: 42797 - Thread: MainThread}
+[2024-12-17 20:25:32] INFO - Se procesaron y guardaron 49 entradas relevantes
+           {Process ID: 42797 - Thread: MainThread}
+[2024-12-17 20:28:04] INFO - Intentando obtener contenido desde: https://www.boe.es/rss/boe.php?s=3
+           {Process ID: 42979 - Thread: MainThread}
+[2024-12-17 20:28:05] INFO - Respuesta HTTP: 200
+           {Process ID: 42979 - Thread: MainThread}
+[2024-12-17 20:28:05] INFO - Se obtuvieron 50 entradas del feed
+           {Process ID: 42979 - Thread: MainThread}
+[2024-12-17 20:28:05] ERROR - Error inesperado en main: name 'monitor' is not defined
+           {Process ID: 42979 - Thread: MainThread}
+[2024-12-17 20:28:59] INFO - Intentando obtener contenido desde: https://www.boe.es/rss/boe.php?s=3
+           {Process ID: 43064 - Thread: MainThread}
+[2024-12-17 20:28:59] INFO - Respuesta HTTP: 200
+           {Process ID: 43064 - Thread: MainThread}
+[2024-12-17 20:28:59] INFO - Se obtuvieron 50 entradas del feed
+           {Process ID: 43064 - Thread: MainThread}
+[2024-12-17 20:28:59] INFO - De 50 entradas, 0 cumplen con los criterios de inclusión
+           {Process ID: 43064 - Thread: MainThread}
+[2024-12-17 20:28:59] INFO - No se encontraron entradas relevantes según los criterios de inclusión
+           {Process ID: 43064 - Thread: MainThread}
+[2024-12-17 20:29:49] INFO - Intentando obtener contenido desde: https://www.boe.es/rss/boe.php?s=3
+           {Process ID: 43105 - Thread: MainThread}
+[2024-12-17 20:29:49] INFO - Respuesta HTTP: 200
+           {Process ID: 43105 - Thread: MainThread}
+[2024-12-17 20:29:49] INFO - Se obtuvieron 50 entradas del feed
+           {Process ID: 43105 - Thread: MainThread}
+[2024-12-17 20:29:49] INFO - De 50 entradas, 0 cumplen con los criterios de inclusión
+           {Process ID: 43105 - Thread: MainThread}
+[2024-12-17 20:29:49] INFO - No se encontraron entradas relevantes según los criterios de inclusión
+           {Process ID: 43105 - Thread: MainThread}
+[2024-12-17 20:33:25,472] ERROR - Error inesperado en main: Expecting value: line 7 column 5 (char 258)
+           {Process ID: 43350 - Thread: MainThread}
+[2024-12-17 20:33:25,474] ERROR - Traceback completo:
+Traceback (most recent call last):
+  File "/Users/santiislanet/islaNet_2025_PROD/main.py", line 110, in main
+    inclusiones = cargar_inclusiones()
+                  ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/santiislanet/islaNet_2025_PROD/main.py", line 36, in cargar_inclusiones
+    return json.load(f)
+           ^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/LBMBOT/lib/python3.11/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+           ^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/LBMBOT/lib/python3.11/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/LBMBOT/lib/python3.11/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/LBMBOT/lib/python3.11/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 7 column 5 (char 258)
+
+           {Process ID: 43350 - Thread: MainThread}
+[2024-12-17 20:34:38] INFO - Intentando obtener contenido desde: https://www.boe.es/rss/boe.php?s=3
+           {Process ID: 43541 - Thread: MainThread}
+[2024-12-17 20:34:38] INFO - Respuesta HTTP: 200
+           {Process ID: 43541 - Thread: MainThread}
+[2024-12-17 20:34:38] INFO - Se obtuvieron 50 entradas del feed
+           {Process ID: 43541 - Thread: MainThread}
+[2024-12-17 20:34:38] INFO - De 50 entradas, 3 cumplen con los criterios de inclusión
+           {Process ID: 43541 - Thread: MainThread}
+[2024-12-17 20:34:38] INFO - Entrada incluida: Resolución de 11 de diciembre de 2024, del Centro de Investigaciones Energéticas, Medioambientales y
+           {Process ID: 43541 - Thread: MainThread}
+[2024-12-17 20:34:38] INFO - Entrada incluida: Resolución de 5 de diciembre de 2024, del Banco de España, sobre delegación de competencias.
+           {Process ID: 43541 - Thread: MainThread}
+[2024-12-17 20:34:38] INFO - Entrada incluida: Resolución de 16 de diciembre de 2024, del Banco de España, por la que se publican los cambios del e
+           {Process ID: 43541 - Thread: MainThread}
+[2024-12-17 20:34:38] INFO - Se guardaron correctamente 3 entradas en data/datos_boe.json
+           {Process ID: 43541 - Thread: MainThread}
+[2024-12-17 20:35:33] INFO - Intentando obtener contenido desde: https://www.boe.es/rss/boe.php?s=3
+           {Process ID: 43603 - Thread: MainThread}
+[2024-12-17 20:35:33] INFO - Respuesta HTTP: 200
+           {Process ID: 43603 - Thread: MainThread}
+[2024-12-17 20:35:33] INFO - Se obtuvieron 50 entradas del feed
+           {Process ID: 43603 - Thread: MainThread}
+[2024-12-17 20:35:33] INFO - De 50 entradas, 3 cumplen con los criterios de inclusión
+           {Process ID: 43603 - Thread: MainThread}
+[2024-12-17 20:35:33] INFO - Entrada incluida: Resolución de 11 de diciembre de 2024, del Centro de Investigaciones Energéticas, Medioambientales y
+           {Process ID: 43603 - Thread: MainThread}
+[2024-12-17 20:35:33] INFO - Entrada incluida: Resolución de 5 de diciembre de 2024, del Banco de España, sobre delegación de competencias.
+           {Process ID: 43603 - Thread: MainThread}
+[2024-12-17 20:35:33] INFO - Entrada incluida: Resolución de 16 de diciembre de 2024, del Banco de España, por la que se publican los cambios del e
+           {Process ID: 43603 - Thread: MainThread}
+[2024-12-17 20:35:33] INFO - Se guardaron correctamente 3 entradas en data/datos_boe.json
+           {Process ID: 43603 - Thread: MainThread}
+[2024-12-17 20:35:39] INFO - Intentando obtener contenido desde: https://www.boe.es/rss/boe.php?s=3
+           {Process ID: 43623 - Thread: MainThread}
+[2024-12-17 20:35:40] INFO - Respuesta HTTP: 200
+           {Process ID: 43623 - Thread: MainThread}
+[2024-12-17 20:35:40] INFO - Se obtuvieron 50 entradas del feed
+           {Process ID: 43623 - Thread: MainThread}
+[2024-12-17 20:35:40] INFO - De 50 entradas, 3 cumplen con los criterios de inclusión
+           {Process ID: 43623 - Thread: MainThread}
+[2024-12-17 20:35:40] INFO - Entrada incluida: Resolución de 11 de diciembre de 2024, del Centro de Investigaciones Energéticas, Medioambientales y
+           {Process ID: 43623 - Thread: MainThread}
+[2024-12-17 20:35:40] INFO - Entrada incluida: Resolución de 5 de diciembre de 2024, del Banco de España, sobre delegación de competencias.
+           {Process ID: 43623 - Thread: MainThread}
+[2024-12-17 20:35:40] INFO - Entrada incluida: Resolución de 16 de diciembre de 2024, del Banco de España, por la que se publican los cambios del e
+           {Process ID: 43623 - Thread: MainThread}
+[2024-12-17 20:35:40] INFO - Se guardaron correctamente 3 entradas en data/datos_boe.json
+           {Process ID: 43623 - Thread: MainThread}
+[2024-12-17 20:36:36] INFO - Intentando obtener contenido desde: https://www.boe.es/rss/boe.php?s=3
+           {Process ID: 43727 - Thread: MainThread}
+[2024-12-17 20:36:36] INFO - Respuesta HTTP: 200
+           {Process ID: 43727 - Thread: MainThread}
+[2024-12-17 20:36:36] INFO - Se obtuvieron 50 entradas del feed
+           {Process ID: 43727 - Thread: MainThread}
+[2024-12-17 20:36:36] INFO - De 50 entradas, 3 cumplen con los criterios de inclusión
+           {Process ID: 43727 - Thread: MainThread}
+[2024-12-17 20:36:36] INFO - Entrada incluida: Resolución de 11 de diciembre de 2024, del Centro de Investigaciones Energéticas, Medioambientales y
+           {Process ID: 43727 - Thread: MainThread}
+[2024-12-17 20:36:36] INFO - Entrada incluida: Resolución de 5 de diciembre de 2024, del Banco de España, sobre delegación de competencias.
+           {Process ID: 43727 - Thread: MainThread}
+[2024-12-17 20:36:36] INFO - Entrada incluida: Resolución de 16 de diciembre de 2024, del Banco de España, por la que se publican los cambios del e
+           {Process ID: 43727 - Thread: MainThread}
+[2024-12-17 20:36:36] INFO - Se guardaron correctamente 3 entradas en data/datos_boe.json
+           {Process ID: 43727 - Thread: MainThread}
+[2024-12-17 20:37:03,623] ERROR - Error inesperado en main: Expecting value: line 20 column 5 (char 568)
+           {Process ID: 43767 - Thread: MainThread}
+[2024-12-17 20:37:03,626] ERROR - Traceback completo:
+Traceback (most recent call last):
+  File "/Users/santiislanet/islaNet_2025_PROD/main.py", line 110, in main
+    inclusiones = cargar_inclusiones()
+                  ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/santiislanet/islaNet_2025_PROD/main.py", line 36, in cargar_inclusiones
+    return json.load(f)
+           ^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/LBMBOT/lib/python3.11/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+           ^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/LBMBOT/lib/python3.11/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/LBMBOT/lib/python3.11/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/LBMBOT/lib/python3.11/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 20 column 5 (char 568)
+
+           {Process ID: 43767 - Thread: MainThread}
+[2024-12-17 20:38:31,791] ERROR - Error inesperado en main: Expecting value: line 20 column 5 (char 568)
+           {Process ID: 43947 - Thread: MainThread}
+[2024-12-17 20:38:31,793] ERROR - Traceback completo:
+Traceback (most recent call last):
+  File "/Users/santiislanet/islaNet_2025_PROD/main.py", line 110, in main
+    inclusiones = cargar_inclusiones()
+                  ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/santiislanet/islaNet_2025_PROD/main.py", line 36, in cargar_inclusiones
+    return json.load(f)
+           ^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/LBMBOT/lib/python3.11/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+           ^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/LBMBOT/lib/python3.11/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/LBMBOT/lib/python3.11/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/LBMBOT/lib/python3.11/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 20 column 5 (char 568)
+
+           {Process ID: 43947 - Thread: MainThread}
+[2024-12-17 20:39:21] INFO - Intentando obtener contenido desde: https://www.boe.es/rss/boe.php?s=3
+           {Process ID: 44085 - Thread: MainThread}
+[2024-12-17 20:39:21] INFO - Respuesta HTTP: 200
+           {Process ID: 44085 - Thread: MainThread}
+[2024-12-17 20:39:21] INFO - Se obtuvieron 50 entradas del feed
+           {Process ID: 44085 - Thread: MainThread}
+[2024-12-17 20:39:21] INFO - De 50 entradas, 1 cumplen con los criterios de inclusión
+           {Process ID: 44085 - Thread: MainThread}
+[2024-12-17 20:39:21] INFO - Entrada incluida: Resolución de 11 de diciembre de 2024, del Centro de Investigaciones Energéticas, Medioambientales y
+           {Process ID: 44085 - Thread: MainThread}
+[2024-12-17 20:39:21] INFO - Se guardaron correctamente 1 entradas en data/datos_boe.json
+           {Process ID: 44085 - Thread: MainThread}
+[2024-12-18 18:09:26] INFO - Intentando obtener contenido desde: https://www.boe.es/rss/boe.php?s=3
+           {Process ID: 60045 - Thread: MainThread}
+[2024-12-18 18:09:26] INFO - Respuesta HTTP: 200
+           {Process ID: 60045 - Thread: MainThread}
+[2024-12-18 18:09:26] INFO - Se obtuvieron 34 entradas del feed
+           {Process ID: 60045 - Thread: MainThread}
+[2024-12-18 18:09:26] INFO - De 34 entradas, 1 cumplen con los criterios de inclusión
+           {Process ID: 60045 - Thread: MainThread}
+[2024-12-18 18:09:26] INFO - Entrada incluida: Resolución de 12 de diciembre de 2024, de la Secretaría de Estado de Economía y Apoyo a la Empresa, 
+           {Process ID: 60045 - Thread: MainThread}
+[2024-12-18 18:09:26] INFO - Se guardaron correctamente 1 entradas en data/datos_boe.json
+           {Process ID: 60045 - Thread: MainThread}
+[2024-12-18 18:09:49] INFO - Intentando obtener contenido desde: https://www.boe.es/rss/boe.php?s=3
+           {Process ID: 60143 - Thread: MainThread}
+[2024-12-18 18:09:49] INFO - Respuesta HTTP: 200
+           {Process ID: 60143 - Thread: MainThread}
+[2024-12-18 18:09:49] INFO - Se obtuvieron 34 entradas del feed
+           {Process ID: 60143 - Thread: MainThread}
+[2024-12-18 18:09:49] INFO - De 34 entradas, 1 cumplen con los criterios de inclusión
+           {Process ID: 60143 - Thread: MainThread}
+[2024-12-18 18:09:49] INFO - Entrada incluida: Resolución de 12 de diciembre de 2024, de la Secretaría de Estado de Economía y Apoyo a la Empresa, 
+           {Process ID: 60143 - Thread: MainThread}
+[2024-12-18 18:09:49] INFO - Se guardaron correctamente 1 entradas en data/datos_boe.json
+           {Process ID: 60143 - Thread: MainThread}
+[2024-12-18 18:50:43] INFO - Intentando obtener contenido desde: https://www.boe.es/rss/boe.php?s=3
+           {Process ID: 4053 - Thread: MainThread}
+[2024-12-18 18:50:43] INFO - Respuesta HTTP: 200
+           {Process ID: 4053 - Thread: MainThread}
+[2024-12-18 18:50:43] INFO - Se obtuvieron 34 entradas del feed
+           {Process ID: 4053 - Thread: MainThread}
+[2024-12-18 18:50:43] INFO - De 34 entradas, 1 cumplen con los criterios de inclusión
+           {Process ID: 4053 - Thread: MainThread}
+[2024-12-18 18:50:43] INFO - Entrada incluida: Resolución de 12 de diciembre de 2024, de la Secretaría de Estado de Economía y Apoyo a la Empresa, 
+           {Process ID: 4053 - Thread: MainThread}
+[2024-12-18 18:50:43] INFO - Se guardaron correctamente 1 entradas en data/datos_boe.json
+           {Process ID: 4053 - Thread: MainThread}

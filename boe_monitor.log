@@ -1,0 +1,39 @@
+2024-12-17 18:59:38,745:INFO:Intentando obtener contenido desde: https://www.boe.es/rss/boe.php?s=3
+2024-12-17 18:59:38,891:INFO:Respuesta HTTP: 200
+2024-12-17 18:59:38,912:INFO:Se han parseado 50 artículos del RSS.
+2024-12-17 18:59:38,913:INFO:Se han persistido 50 artículos en datos_boe.json
+2024-12-17 18:59:57,499:INFO:Intentando obtener contenido desde: https://www.boe.es/rss/boe.php?s=3
+2024-12-17 18:59:57,667:INFO:Respuesta HTTP: 200
+2024-12-17 18:59:57,692:INFO:Se han parseado 50 artículos del RSS.
+2024-12-17 18:59:57,692:INFO:No se encontraron nuevos artículos para persistir.
+2024-12-17 19:02:10,769:INFO:Intentando obtener contenido desde: https://www.boe.es/rss/boe.php?s=3
+2024-12-17 19:02:10,943:INFO:Respuesta HTTP: 200
+2024-12-17 19:02:10,960:INFO:Se han parseado 50 artículos del RSS.
+2024-12-17 19:02:10,961:ERROR:Error al persistir los datos: [Errno 2] No such file or directory: '/data/datos_boe.json'
+2024-12-17 19:02:11,182:INFO:Intentando obtener contenido desde: https://www.boe.es/rss/boe.php?s=3
+2024-12-17 19:02:11,357:INFO:Respuesta HTTP: 200
+2024-12-17 19:02:11,371:INFO:Se han parseado 50 artículos del RSS.
+2024-12-17 19:02:11,371:ERROR:Error al persistir los datos: [Errno 2] No such file or directory: '/data/datos_boe.json'
+2024-12-17 19:08:22,833:INFO:Intentando obtener contenido desde: https://www.boe.es/rss/boe.php?s=3
+2024-12-17 19:08:23,004:INFO:Respuesta HTTP: 200
+2024-12-17 19:08:23,025:INFO:Se han parseado 50 artículos del RSS.
+2024-12-17 19:08:49,799:INFO:Intentando obtener contenido desde: https://ejemplo.com/tu_link
+2024-12-17 19:08:50,213:INFO:Respuesta HTTP: 200
+2024-12-17 19:11:29,016:INFO:Intentando obtener contenido desde: https://www.boe.es/rss/boe.php?s=3
+2024-12-17 19:11:29,186:INFO:Respuesta HTTP: 200
+2024-12-17 19:14:46,710:INFO:Intentando obtener contenido desde: https://www.boe.es/rss/boe.php?s=3
+2024-12-17 19:14:46,843:INFO:Respuesta HTTP: 200
+2024-12-17 19:15:31,681:INFO:Intentando obtener contenido desde: https://www.boe.es/rss/boe.php?s=3
+2024-12-17 19:15:31,832:INFO:Respuesta HTTP: 200
+2024-12-17 19:15:36,602:INFO:Intentando obtener contenido desde: https://www.boe.es/rss/boe.php?s=3
+2024-12-17 19:15:36,767:INFO:Respuesta HTTP: 200
+2024-12-17 19:15:48,000:INFO:Intentando obtener contenido desde: https://www.boe.es/rss/boe.php?s=3
+2024-12-17 19:15:48,149:INFO:Respuesta HTTP: 200
+2024-12-17 19:15:48,681:INFO:Intentando obtener contenido desde: https://www.boe.es/rss/boe.php?s=3
+2024-12-17 19:15:48,819:INFO:Respuesta HTTP: 200
+2024-12-17 19:17:43,149:INFO:Intentando obtener contenido desde: https://www.boe.es/rss/boe.php?s=3
+2024-12-17 19:17:43,277:INFO:Respuesta HTTP: 200
+2024-12-17 19:19:17,212:INFO:Intentando obtener contenido desde: https://www.boe.es/rss/boe.php?s=3
+2024-12-17 19:19:17,382:INFO:Respuesta HTTP: 200
+2024-12-17 19:20:05,529:INFO:Intentando obtener contenido desde: https://www.boe.es/rss/boe.php?s=3
+2024-12-17 19:20:05,676:INFO:Respuesta HTTP: 200
